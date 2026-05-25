@@ -48,3 +48,6 @@ Thumbs.db
 .env.local
 *.secret
 secrets/
+
+# Claude Code 本地权限配置（含个人放行规则，禁止提交）
+.claude/settings.local.json
